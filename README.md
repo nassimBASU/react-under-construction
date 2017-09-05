@@ -1,6 +1,6 @@
 # React under construction component [![npm](https://img.shields.io/npm/v/react-under-construction.svg)]()
 
-[![Build Status](https://travis-ci.org/udiliaInc/react-under-construction.svg?branch=master)](https://travis-ci.org/udiliaInc/react-under-construction)
+[![Build Status](https://travis-ci.org/UdiliaInc/react-under-construction.svg?branch=master)](https://travis-ci.org/UdiliaInc/react-under-construction)
 [![Dependencies](https://img.shields.io/david/udiliaInc/react-under-construction.svg)]()
 [![Dev Dependencies](https://img.shields.io/david/dev/udiliaInc/react-under-construction.svg)]()
 [![npm downloads](https://img.shields.io/npm/dm/react-under-construction.svg)](https://www.npmjs.com/package/react-under-construction)
