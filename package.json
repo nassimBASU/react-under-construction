@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rubbby/react-under-construction.git"
+    "url": "git+https://github.com/udiliaInc/react-under-construction.git"
   },
-  "author": "Dimitri Mikadze <dimitri@rubbby.com>",
+  "author": "Dimitri Mikadze <dimitri@udilia.com>",
   "bugs": {
-    "url": "https://github.com/rubbby/react-under-construction/issues"
+    "url": "https://github.com/udiliaInc/react-under-construction/issues"
   },
-  "homepage": "https://github.com/rubbby/react-under-construction#readme",
+  "homepage": "https://github.com/udiliaInc/react-under-construction#readme",
   "license": "MIT",
   "devDependencies": {
     "autoprefixer": "7.1.2",
